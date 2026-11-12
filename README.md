@@ -44,5 +44,7 @@ On utilise un kit de calibration composé de quatre éléments standards :
 4. **Thru** (connexion directe entre les ports)
 
 
+google-site-verification: google108d09d2532f51ce.html
+
 
 
