@@ -46,6 +46,3 @@ On utilise un kit de calibration composé de quatre éléments standards :
 
 
 google-site-verification: google108d09d2532f51ce.html
-
-
-google-site-verification: google108d09d2532f51ce.html
